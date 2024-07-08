@@ -2,7 +2,7 @@
 Machine learning from Cremer Pople sampling of the Potential Energy Surface of flexible cyclic moieties (https://pubs.acs.org/doi/10.1021/acs.jpca.3c00095). 
 
 Installation:
-conda env create -f environment.yaml
+conda env create -f environment.yml
 
 Run:
 conda activate mlff_things
